@@ -6,6 +6,8 @@ Book Scanner is an application designed to scan and analyze images of bookshelve
 
 <img src="https://github.com/NovaTrail/Check_Your_Shelf/blob/main/Book%20Vision.gif" alt="Alt text" width="380" height="390">
 
+---
+*This repository's contents are provided “as is”, without warranty or guarantee of any kind.* 
 
 Features
 - Upload images of bookshelves in PNG, JPG, or JPEG formats.
@@ -15,8 +17,6 @@ Features
 
 Uses parallel processing to improve efficiency.
 Please note the book resale database is not included. 
-
-*This repository's contents are provided “as is”, without warranty or guarantee of any kind.* 
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
