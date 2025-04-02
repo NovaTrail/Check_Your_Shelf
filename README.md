@@ -3,7 +3,7 @@
 Overview
 Book Scanner is an application designed to scan and analyze images of bookshelves to identify books and determine their potential for resale. The application uses YOLO image sementation and then a multimodal image&text-to-text LLM to extract book titles and authors from images and compare them against a database to find matches.
 
-<img src="https://github.com/NovaTrail/Check_Your_Shelf/blob/main/Book%20Vision.gif" alt="Alt text" width="380" height="780">
+<img src="https://github.com/NovaTrail/Check_Your_Shelf/blob/main/Book%20Vision.gif" alt="Alt text" width="300" height="600">
 
 Features
 - Upload images of bookshelves in PNG, JPG, or JPEG formats.
