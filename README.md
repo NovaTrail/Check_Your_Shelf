@@ -12,6 +12,8 @@ Features
 Uses parallel processing to improve efficiency.
 Please note the book resale database is not included. 
 
+*This repository's contents are provided “as is”, without warranty or guarantee of any kind.* 
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
