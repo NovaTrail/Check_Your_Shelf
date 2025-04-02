@@ -19,7 +19,7 @@ Please note the book resale database is not included.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-*This repository's contents are provided “as is”, without warranty or guarantee of any kind.* 
+*The contents of this repository are provided “as is”, without warranty or guarantee of any kind.* 
 
 ---
 
