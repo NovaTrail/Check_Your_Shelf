@@ -23,6 +23,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Happy scanning! 📖
 
+---
+
 Acknowledgements
 We would like to express our gratitude to the following Open Source Libraries
 - Hugging Face Hub: For accessing pre-trained models and datasets.
