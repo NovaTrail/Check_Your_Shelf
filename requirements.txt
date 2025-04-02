@@ -1,0 +1,6 @@
+huggingface_hub==0.24.7
+pandas==2.2.3
+Pillow==11.1.0
+rapidfuzz==3.12.2
+Requests==2.32.3
+streamlit==1.41.1
